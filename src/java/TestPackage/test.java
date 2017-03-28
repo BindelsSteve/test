@@ -10,5 +10,6 @@ package TestPackage;
  * @author steve
  */
 public class test {
-    
+
+    static int grid[][] = new int[9][9];
 }
